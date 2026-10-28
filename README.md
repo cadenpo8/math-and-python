@@ -1,5 +1,5 @@
 # math-and-python
-This is a collection of many Python projects that I have created, most explore ideas that I find intresting including, mathematics, calculus, and numerical methods.
+This is a collection of many Python projects that I have created, most explore ideas that I find interesting including, mathematics, calculus, and numerical methods.
 
 
 Hello, I started a good bit of these in 8th grade and have been working on new things all the way until my current sophomore year (2026-2027). Many of these projects are not perfect as I am self taught. You may also notice that I am not importing many functions, I prefer for smaller mathematical codes to do it myself, without imported functions, as it also helps me grasp the idea better. I created this to document my progress throughout the years and explore mathematical concepts through coding.
